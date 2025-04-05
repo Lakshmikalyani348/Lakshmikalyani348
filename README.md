@@ -1,4 +1,5 @@
   Hi, I’m Rasamsetti Lakshmikalyani B-tech cse(AI) Student at Kakinada institute of engineering technology with a passion for learning new technologies.
+
  *Skills & interests:*
 - programming languages: python, Html, css,js (basic knowledge)
 - libraries: Numpy, pandas, matplotlib
@@ -8,7 +9,7 @@
 
  *Feedback Welcome:*
 - i am still learning and growing my skills 
-- 
+  
 
 <!---
 Lakshmikalyani348/Lakshmikalyani348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
