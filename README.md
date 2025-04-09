@@ -1,14 +1,56 @@
-  Hi, I’m Rasamsetti Lakshmikalyani B-tech cse(AI) Student at Kakinada institute of engineering technology with a passion for learning new technologies.
 
- *Skills & interests:*
-- programming languages: python, Html, css,js (basic knowledge)
-- libraries: Numpy, pandas, matplotlib
-- Developer tools: GitHub, google colab, VS Code
-- Academic coursework: machine learning, deep learning
-- interests: problem solving
 
- *Feedback Welcome:*
-- i am still learning and growing my skills 
+🚀 Rasamsetti Lakshmi kalyani
+
+🎓 B.Tech CSE (AI) | Kakinada Institute of Engineering Technology
+💡 Passionate about AI, Machine Learning, and Problem-Solving
+📚 Always learning and exploring new technologies
+
+
+___
+
+🔧 Skills & Technologies
+
+🚀 Programming Languages
+
+Python 🐍 | HTML 🌐 | CSS 🎨 | JavaScript ⚡
+
+
+📚 Libraries & Frameworks
+
+NumPy | Pandas | Matplotlib
+
+
+🛠️ Developer Tools
+
+GitHub | Google Colab | VS Code
+
+
+
+---
+
+📖 Academic Focus
+
+Machine Learning 🤖
+
+Deep Learning 🧠
+
+
+
+---
+
+🌱 Learning & Growth
+
+I believe in continuous learning and improvement. Always open to feedback and new challenges!
+
+🔗 Connect with me:
+
+gmail:-
+(lakshmikalyanirasamsetti@gmail.com)
+
+LinkedIn:- (https://www.linkedin.com/in/lakshmi-kalyani-rasamsetti-404920316)
+
+
   
 
 <!---
