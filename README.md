@@ -46,7 +46,7 @@ I believe in continuous learning and improvement. Always open to feedback and ne
 🔗 Connect with me:
 
 gmail:-
-(lakshmikalyanirasamsetti@gmail.com)
+(kalyanirasamsetti@gmail.com)
 
 LinkedIn:- (https://www.linkedin.com/in/lakshmi-kalyani-rasamsetti-404920316)
 
